@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Please sign up</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link
+      href="https://getbootstrap.com/docs/4.0/examples/signin/signin.css"
+      rel="stylesheet"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <a
+            href="login"
+            class="btn btn-secondary btn-sm active"
+            role="button"
+            aria-pressed="true"
+          >
+            Login
+          </a>
+          <a
+            href="register"
+            class="btn btn-secondary btn-sm active"
+            role="button"
+            aria-pressed="true"
+          >
+            Register
+          </a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12 text-center mt-4">
+          <form class="form-signin" method="post" action="register">
+            <h2 class="form-signin-heading">Please sign up</h2>
+            <div
+              id="error"
+              class="alert alert-danger d-none"
+              role="alert"
+            ></div>
+            <div
+              id="success"
+              class="alert alert-success d-none"
+              role="alert"
+            ></div>
+            <p>
+              <label for="username" class="sr-only">Username</label>
+              <input
+                type="text"
+                id="username"
+                name="username"
+                class="form-control"
+                placeholder="Username"
+                required
+                autofocus
+              />
+            </p>
+            <p>
+              <label for="password" class="sr-only">Password</label>
+              <input
+                type="password"
+                id="password"
+                name="password"
+                class="form-control"
+                placeholder="Password"
+                required
+              />
+            </p>
+            <p>
+              <label for="confirm" class="sr-only">Confirm</label>
+              <input
+                type="password"
+                id="confirm"
+                name="confirm"
+                class="form-control"
+                placeholder="Confirm"
+                required
+              />
+            </p>
+            <button
+              class="btn btn-lg btn-outline-primary btn-block"
+              type="submit"
+            >
+              Sign up
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="./script.js"></script>
+  </body>
+</html>
