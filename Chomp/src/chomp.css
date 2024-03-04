@@ -1,0 +1,37 @@
+body {
+  background: #FFB6C1;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column;
+  position: relative;
+}
+
+.row div {
+  background: #542f27;
+  color: #FFFFFF;
+  padding: 2px;
+  border: 2px outset;
+  height: 24px;
+  width: 24px;
+  text-align: center;
+  line-height: 24px;
+}
+
+h2 {
+	margin-bottom: 20px;
+	position: fixed;
+	top: 190px;
+}
+
+h4 {
+	margin-top: 260px;
+	position: fixed;
+}
+
+.row {
+  display: flex;
+}
