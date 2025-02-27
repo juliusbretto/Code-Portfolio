@@ -1,0 +1,1 @@
+Created an online chess game on a server using VUE as a school assignment. Two people can connect to the server and play a chess game with each other. Leaderboards exist and will be updated as long as the server connection is active. Give it a go!
