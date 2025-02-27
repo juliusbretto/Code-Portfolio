@@ -1,4 +1,4 @@
-## $${\color{red} PLEASE \space READ \space \space BELOW}$$
+## $${\color{red}PLEASE \space READ\space BELOW}$$
 
 Hey you!
 
