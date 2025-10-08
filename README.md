@@ -24,16 +24,18 @@ Some examples include:
 
 I design primarily in **Figma** and have worked on UX/UI projects across **health tech**, **fintech**, **digital marketplaces**, **language learning**, and **VR**.
 
-### 🫀 ECG App for Elderly Users
-Co-created during my exchange at **DTU Copenhagen**.  
-We conducted multiple **user tests**, **A/B tests**, and **iterative design sessions** to develop an ECG monitoring app aimed at healthcare professionals and private users.
-👉 [**View Figma prototype (first iteration)**](https://www.figma.com/design/q0O6f4XPU5fkL7mKGXDvvt/Movisens-vs.-ECG-Monitor-Project?m=auto&t=sRIQAPY5FYWR3bx2-7). NB: Feel free to navigate around the other iterations too, and see how we progressed!
+### 💰 BudgetBuddy – AI Financial Advisor
+Co-created during my exchange at **DTU Copenhagen**. 
+A chatbot-based financial planning app designed to help **young adults** manage their personal finances when moving away from home for the first time. We conducted multiple **user tests** and **iterative design sessions**.
+👉 [**View Figma prototype**](https://www.figma.com/design/3p27bK1BHxCiKf08xvs1GV/BudgetBuddy-–-Financial-Advisor?node-id=16-27&p=f&t=j5Xwl2Y74TfhidRP-0)
 
 ---
 
-### 💰 BudgetBuddy – AI Financial Advisor
-A chatbot-based financial planning app designed to help **young adults** manage their personal finances when moving away from home for the first time.  
-👉 [**View Figma prototype**](https://www.figma.com/proto/h8rYvxVRC3jPVPWL5lxbEY/Final-Project-(Finance)?node-id=1060-3891&starting-point-node-id=1060%3A3880)
+### 🫀 ECG App for Elderly Users
+Also co-created during my exchange at **DTU Copenhagen**.  
+Again, we conducted multiple **user tests**, **A/B tests**, and **iterative design sessions** to develop an ECG monitoring app aimed at healthcare professionals and private users.
+👉 [**View Figma prototype (first iteration)**](https://www.figma.com/design/q0O6f4XPU5fkL7mKGXDvvt/Movisens-vs.-ECG-Monitor-Project?m=auto&t=sRIQAPY5FYWR3bx2-7). 
+NB: Feel free to navigate around the other iterations too, and see how we progressed!
 
 ---
 
@@ -44,6 +46,13 @@ UX design for a **virtual marketplace for secondhand cinema industry goods**, cr
 
 ---
 
+### 🎧 Audiogram – Hearing Test App
+A prototype app designed to let users **test their hearing with audiograms** in a simple, accessible way. We were free to approach the hearing test problem in any way we wanted, which challenged us to think creatively. Instead of a standard clinical audiogram, we designed a game-like experience that makes hearing tests more engaging and accessible.
+Focus was on creating a **clear, user-friendly interface** for a process that can often feel technical and medical.  
+👉 [**View Figma prototype**](https://www.figma.com/design/wXgHhwBQFIAhClf73qAPGr/Audiogram?m=auto&t=sRIQAPY5FYWR3bx2-6)
+
+---
+
 ### 🇫🇷 Salut Français – Language Trainer
 A small **React + Vite** side project I built to practice French and my web development skills, killing two birds with one stone.  
 👉 [**Try it here**](https://salut-francais.bond)
@@ -51,7 +60,7 @@ A small **React + Vite** side project I built to practice French and my web deve
 ---
 
 ### 🥽 VR Bartender Game
-A **Unity + Oculus Quest 2** project exploring the differences between **haptic** and **visual feedback** in gameplay. Keep in mind this is VERY basic.
+A **Unity + Oculus Quest 2** project exploring the differences between **haptic** and **visual feedback** in gameplay. Keep in mind this is *very* basic – first time I tried Unity *and* VR.
 👉 [**Watch demo video**](https://youtube.com/shorts/GEtwTgkdaXs)
 
 ---
@@ -68,4 +77,4 @@ A **Unity + Oculus Quest 2** project exploring the differences between **haptic*
 
 If you’d like to connect, feel free to reach out:  
 **📧 Email:** [julius.ekberg.bretto@hotmail.com](mailto:julius.ekberg.bretto@hotmail.com)  
-**💼 LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/julius-ekberg-bretto-038b24153/)) 
+**💼 LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/julius-ekberg-bretto-038b24153/)
